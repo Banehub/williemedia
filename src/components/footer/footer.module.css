@@ -1,0 +1,20 @@
+/* footer.module.css */
+
+.footerContainer {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: auto;
+  }
+  
+  .footerContent {
+    /* You can add additional styles for the content within the footer */
+  }
+  

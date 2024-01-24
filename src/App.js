@@ -1,9 +1,9 @@
-import Willie from "./components/nav";
+import MainPage from "./pages"
 
 export default function App () {
   return(
     <>
-    <Willie/>
+    <MainPage/>
     </>
   )
 }
